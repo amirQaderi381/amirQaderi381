@@ -10,7 +10,7 @@ I mainly work with **Laravel/PHP** on the backend and **React/Redux** on the fro
 
 ## 🚀 About Me
 
-* 💻 Full-Stack Developer at **Yekpay**
+* 💻 Full-Stack Developer
 * 🔧 Backend development with **Laravel & PHP**
 * ⚛️ Frontend development with **React & Redux**
 * 🔌 Experienced in building and integrating **REST APIs**
@@ -90,8 +90,10 @@ I'm continuously improving my knowledge in:
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect with Me
 
-I'm interested in **software engineering, backend development, APIs, payment systems, and building scalable applications**.
+* 📧 **Email:** [amirqaderi321@gmail.com](mailto:amirqaderi321@gmail.com)
+* 🐙 **GitHub:** [@amirQaderi381](https://github.com/amirQaderi381)
+* 💬 **Telegram:** [@amirQaderi81]
+* (https://t.me/@amirQaderi81)
 
-Feel free to explore my repositories and connect with me.
